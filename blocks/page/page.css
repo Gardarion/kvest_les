@@ -1,0 +1,11 @@
+.page {
+  font-family: 'Times New Roman', Times, serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  min-height: 100vh;
+  margin: 0 auto;
+  background-color: #403a3a;
+  color: aliceblue;
+}
